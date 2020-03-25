@@ -3,5 +3,5 @@ github "CocoaLumberjack/CocoaLumberjack" ~> 3.5.2
 github "qinci/MMDB-Swift" "master"
 github "zhuhaow/Sodium-framework" "v1.0.10.1"
 github "behrang/YamlSwift" "3.4.3"
-github "qinci/tun2socks" "master"
+github "JayZhao/tun2socks" "master"
 github "zhuhaow/Resolver" ~> 0.2.0
